@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3FlexForms>
+    <data>
+        <sheet index="sDEF">
+            <language index="lDEF">
+                <field index="responsivestartseitepartnerteasercontainer">
+                    <el index="el">
+                        <field index="responsivestartseitepartnerlogocontainer">
+                            <el index="el">
+                                <field index="responsivestartseitepartnerlogo">
+                                    <value index="vDEF">fileadmin/responsive/startseiten-partnerlogos/lampenwelt.jpg</value>
+                                </field>
+                                <field index="responsivestartseitepartnerlogoalt">
+                                    <value index="vDEF">Zu unserem Premium-Partner Lampenwelt</value>
+                                </field>
+                            </el>
+                        </field>
+                        <field index="_TOGGLE">0</field>
+                        <field index="responsivestartseitetextcontainer">
+                            <el index="el">
+                                <field index="responsivestartseitepartnerheadline">
+                                    <value index="vDEF">Willkommen bei Lampenwelt.de</value>
+                                </field>
+                                <field index="responsivestartseitepartnertextinnercontainer">
+                                    <el index="el">
+                                        <field index="responsivestartseitepartnertext">
+                                            <value index="vDEF">Über 50.000 Produkte und 10 Jahre Erfahrung sprechen für sich. Finden Sie bei Lampenwelt.de Ihre Traumleuchte!</value>
+                                            <value index="_TRANSFORM_vDEF.vDEFbase">&lt;p&gt;Über 50.000 Produkte und 10 Jahre Erfahrung sprechen für sich. Finden Sie bei Lampenwelt.de Ihre Traumleuchte!&lt;/p&gt;</value>
+                                        </field>
+                                    </el>
+                                </field>
+                                <field index="_TOGGLE">0</field>
+                            </el>
+                        </field>
+                    </el>
+                </field>
+                <field index="_TOGGLE">0</field>
+                <field index="responsivestartseitepartnerlink">
+                    <value index="vDEF">24372</value>
+                </field>
+                <field index="responsivestartseitepartnerlinktitle">
+                    <value index="vDEF">Zu unserem Premium-Partner Lampenwelt</value>
+                </field>
+                <field index="responsivestartseitepartnerlinktarget">
+                    <value index="vDEF">_self</value>
+                </field>
+                <field index="responsivestartseitepartnerlinkrel">
+                    <value index="vDEF">follow</value>
+                </field>
+                <field index="responsivestartseitepartnerlinkid">
+                    <value index="vDEF">lnk-int-homepage-partner-lampenwelt</value>
+                </field>
+            </language>
+        </sheet>
+    </data>
+</T3FlexForms>
